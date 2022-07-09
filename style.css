@@ -1,0 +1,91 @@
+@import url ('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+body{
+	background-color:#FFF;
+	font-family:"Quicksand", sans-sarif;
+	font-size:18px;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 2%;
+	color: #565658;
+	
+}
+#wrapper{
+	margin: 0 auto;
+	background:#fff
+}
+{
+	letter-spacing: 1%;
+	padding-left: 2%;
+	font-weight: 500;
+}
+p{
+	padding: 2%;
+	text-align: justify;
+}
+img{
+	max-width:100%;
+}
+.line{
+	clear: both;
+	margin: 4% auto;
+	width: 90%;
+	background-color: #ffaa71;
+	height: 2px;	
+}
+header{
+	width: 98%;	
+}
+#logo{
+	
+	margin:0 auto;
+	max-width: 220px;
+}
+#callout{
+	clear: both;
+	text-align: center;
+	marging: 3% 3% 2% 0;
+	height: auto;
+	overflow: hidden;
+}
+.social{
+	list-style-type: none;
+	margin-top: 4%;
+	padding: 0
+}
+.social li{
+	display: inline;
+	
+}
+.banner{
+	margin-bottom: 3%;
+}
+.btn{
+	margin: 0 auto;
+	border-radius: 8px;
+	font-size: 17px;
+	background: #ffaa71;
+	padding: 8px;
+	text-decoration: none;
+}
+.button-holder{
+	clear: both;
+	text-align: center;
+	marging: auto;
+	
+}
+.btn:hover{
+	background:#ffbb71;
+	text-decoration: none;
+}
+.contact{
+	text-align: center;
+	margin-bottom: 4%;
+}
+	width: auto;
+	max-height: 30vh;
+}
